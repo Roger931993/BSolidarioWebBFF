@@ -22,5 +22,16 @@ namespace WebBFF.Cliente.Application.DTOs
         public decimal? tasa_interes { get; set; }
         public DateTime? fecha_ultima_transaccion { get; set; }
         public string? usuario_creacion { get; set; }
+
+        public string? det_producto { get
+            {
+                if (producto_id == 1)
+                    return "Ahorro Normal";
+                if (producto_id == 2)
+                    return "Corriente Normal";
+                if (producto_id == 3)
+                    return "Ahorro Plan";
+                return "Cuenta";
+            } }
     }
 }

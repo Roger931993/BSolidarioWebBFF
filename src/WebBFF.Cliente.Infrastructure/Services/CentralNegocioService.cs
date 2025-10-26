@@ -169,7 +169,6 @@ namespace WebBFF.Cliente.Infrastructure.Services
             }
         }
 
-       
 
         public async Task<ResponseBase<CrearCuentaResponse>> CrearCuenta(CrearCuentaRequest request, Guid IdTraker)
         {
@@ -218,6 +217,68 @@ namespace WebBFF.Cliente.Infrastructure.Services
             {
                 await AddLogError(request.ToString(), 500, ex, cachelocal);
                 return new ResponseBase<CrearCuentaAhorroPlanResponse>
+                {
+                    error = new Error
+                    {
+                        codeError = (int)TypeError.InternalError,
+                        messageError = ex.Message,
+                        success = false
+                    }
+                };
+            }
+            finally
+            {
+                await AddLogInput(request.ToString(), 200, cachelocal);
+            }
+        }
+
+        public async Task<ResponseBase<CrearDepositoResponse>> GenerarDeposito(CrearDepositoRequest request, Guid IdTraker)
+        {
+            DataCacheLocal cachelocal = await _memoryCacheLocalService.GetCachedData(IdTraker.ToString());
+            try
+            {
+                var json = JsonSerializer.Serialize(request);
+                var content = new StringContent(json, Encoding.UTF8, "application/json");
+
+                var response = await _httpClient.PostAsync($"{_apiUrl.Url}/api/Operacion/crear-deposito", content);
+                ResponseBase<CrearDepositoResponse> resultService = await Util.ConvertResponse<ResponseBase<CrearDepositoResponse>>(response);
+                return resultService!;
+            }
+            catch (Exception ex)
+            {
+                await AddLogError(request.ToString(), 500, ex, cachelocal);
+                return new ResponseBase<CrearDepositoResponse>
+                {
+                    error = new Error
+                    {
+                        codeError = (int)TypeError.InternalError,
+                        messageError = ex.Message,
+                        success = false
+                    }
+                };
+            }
+            finally
+            {
+                await AddLogInput(request.ToString(), 200, cachelocal);
+            }
+        }
+
+        public async Task<ResponseBase<CrearTransferenciaResponse>> GenerarTransferencia(CrearTransferenciaRequest request, Guid IdTraker)
+        {
+            DataCacheLocal cachelocal = await _memoryCacheLocalService.GetCachedData(IdTraker.ToString());
+            try
+            {
+                var json = JsonSerializer.Serialize(request);
+                var content = new StringContent(json, Encoding.UTF8, "application/json");
+
+                var response = await _httpClient.PostAsync($"{_apiUrl.Url}/api/Operacion/crear-transferencia", content);
+                ResponseBase<CrearTransferenciaResponse> resultService = await Util.ConvertResponse<ResponseBase<CrearTransferenciaResponse>>(response);
+                return resultService!;
+            }
+            catch (Exception ex)
+            {
+                await AddLogError(request.ToString(), 500, ex, cachelocal);
+                return new ResponseBase<CrearTransferenciaResponse>
                 {
                     error = new Error
                     {

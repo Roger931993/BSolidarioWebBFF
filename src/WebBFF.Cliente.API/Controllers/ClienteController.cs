@@ -79,7 +79,20 @@ namespace WebBFF.Cliente.API.Controllers
             ResponseBase<ConsultarProyeccionAhorroResponse> objResponse = await _mediator.Send(new ConsultarProyeccionAhorroQuery(request));
             return OkUrban(objResponse);
         }
-        
+
+        [HttpPost("cliente")]
+        [ProducesResponseType(typeof(GenerarClienteResponse), (int)HttpStatusCode.OK)]
+        public async Task<ActionResult<GenerarClienteResponse>> CrearCuentaAhorroPlan([FromBody] GenerarClienteRequest data)
+        {
+            GenerarClienteCommand command = new GenerarClienteCommand()
+            {
+                Request = data
+            };
+            await CreateDataCacheLocal(HttpContext, command);
+            ResponseBase<GenerarClienteResponse> objResponse = await _mediator.Send(command);
+            return OkUrban(objResponse);
+        }
+
         [HttpPost("cuenta")]
         [ProducesResponseType(typeof(GenerarCuentaResponse), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<GenerarCuentaResponse>> CrearCuentaAhorroPlan([FromBody] GenerarCuentaRequest data)
@@ -103,6 +116,32 @@ namespace WebBFF.Cliente.API.Controllers
             };
             await CreateDataCacheLocal(HttpContext, command);
             ResponseBase<GenerarCuentaAhorroPlanResponse> objResponse = await _mediator.Send(command);
+            return OkUrban(objResponse);
+        }
+
+        [HttpPost("cuenta/deposito")]
+        [ProducesResponseType(typeof(GenerarDepositoResponse), (int)HttpStatusCode.OK)]
+        public async Task<ActionResult<GenerarDepositoResponse>> CrearDeposito([FromBody] GenerarDepositoRequest data)
+        {
+            GenerarDepositoCommand command = new GenerarDepositoCommand()
+            {
+                Request = data
+            };
+            await CreateDataCacheLocal(HttpContext, command);
+            ResponseBase<GenerarDepositoResponse> objResponse = await _mediator.Send(command);
+            return OkUrban(objResponse);
+        }
+
+        [HttpPost("cuenta/trasnferencia")]
+        [ProducesResponseType(typeof(GenerarTransferenciaResponse), (int)HttpStatusCode.OK)]
+        public async Task<ActionResult<GenerarTransferenciaResponse>> CrearTransferencia([FromBody] GenerarTransferenciaRequest data)
+        {
+            GenerarTransferenciaCommand command = new GenerarTransferenciaCommand()
+            {
+                Request = data
+            };
+            await CreateDataCacheLocal(HttpContext, command);
+            ResponseBase<GenerarTransferenciaResponse> objResponse = await _mediator.Send(command);
             return OkUrban(objResponse);
         }
     }

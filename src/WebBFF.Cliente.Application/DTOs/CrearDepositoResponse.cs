@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace WebBFF.Cliente.Application.DTOs
 {
-    public class ProyeccionAhorroResponse
+    public class CrearDepositoResponse
     {
-        public clienteDto? cliente { get; set; }
         public cuentaDto? cuenta { get; set; }
-        public List<proyeccionDto>? proyeccion { get; set; }
-        public decimal? total { get; set; }
     }
 }
