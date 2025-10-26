@@ -1,0 +1,17 @@
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\obj\Release\net8.0\WebBFF.Cliente.Infrastructure.csproj.AssemblyReference.cache
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\obj\Release\net8.0\WebBFF.Cliente.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\obj\Release\net8.0\WebBFF.Cliente.Infrastructure.AssemblyInfoInputs.cache
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\obj\Release\net8.0\WebBFF.Cliente.Infrastructure.AssemblyInfo.cs
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\obj\Release\net8.0\WebBFF.Cliente.Infrastructure.csproj.CoreCompileInputs.cache
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\bin\Release\net8.0\WebBFF.Cliente.Infrastructure.deps.json
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\bin\Release\net8.0\WebBFF.Cliente.Infrastructure.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\bin\Release\net8.0\WebBFF.Cliente.Infrastructure.pdb
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\bin\Release\net8.0\WebBFF.Cliente.Application.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\bin\Release\net8.0\WebBFF.Cliente.Domain.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\bin\Release\net8.0\WebBFF.Cliente.Application.pdb
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\bin\Release\net8.0\WebBFF.Cliente.Domain.pdb
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\obj\Release\net8.0\WebBFF.C.E1EC4D30.Up2Date
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\obj\Release\net8.0\WebBFF.Cliente.Infrastructure.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\obj\Release\net8.0\refint\WebBFF.Cliente.Infrastructure.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\obj\Release\net8.0\WebBFF.Cliente.Infrastructure.pdb
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Infrastructure\obj\Release\net8.0\ref\WebBFF.Cliente.Infrastructure.dll

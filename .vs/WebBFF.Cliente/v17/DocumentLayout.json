@@ -1,0 +1,1310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\handlers\\generarcuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\handlers\\generarcuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\interfaces\\infraestructure\\icentralnegocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\interfaces\\infraestructure\\icentralnegocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.api\\webbff.cliente.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|solutionrelative:src\\webbff.cliente.api\\webbff.cliente.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|solutionrelative:src\\webbff.cliente.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|solutionrelative:src\\webbff.cliente.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\commands\\generarcuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\commands\\generarcuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\handlers\\generarcuentaahorroplancommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\handlers\\generarcuentaahorroplancommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\commands\\generarcuentaahorroplancommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\commands\\generarcuentaahorroplancommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\handlers\\consultaclientecuentasqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\handlers\\consultaclientecuentasqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.api\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|solutionrelative:src\\webbff.cliente.api\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\handlers\\consultarclientesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\handlers\\consultarclientesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\queries\\consultarproyeccionahorroquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\queries\\consultarproyeccionahorroquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\queries\\consultarcuentaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\queries\\consultarcuentaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\queries\\consultarclientesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\queries\\consultarclientesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\queries\\consultaclientecuentasquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\queries\\consultaclientecuentasquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\crearcuentaahorroplanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\crearcuentaahorroplanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\handlers\\consultarcuentaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\handlers\\consultarcuentaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\buscarcuentaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\buscarcuentaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\services\\centralnegocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\services\\centralnegocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\handlers\\consultarproyeccionahorroqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\handlers\\consultarproyeccionahorroqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\features\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\features\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\buscarclienteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\buscarclienteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\base\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\base\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.api\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|solutionrelative:src\\webbff.cliente.api\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|solutionrelative:src\\webbff.cliente.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|solutionrelative:src\\webbff.cliente.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\webbff.cliente.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\webbff.cliente.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.domain\\webbff.cliente.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|solutionrelative:src\\webbff.cliente.domain\\webbff.cliente.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\webbff.cliente.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\webbff.cliente.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.api\\project.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|solutionrelative:src\\webbff.cliente.api\\project.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{845AC954-2EB7-40C8-A6B8-4AE5F0930881}|src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj|solutionrelative:src\\webbff.cliente.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\buscarclientesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\buscarclientesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\catalog_errordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\catalog_errordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\crearcuentarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\crearcuentarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\crearcuentaahorroplanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\crearcuentaahorroplanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\crearclienterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\crearclienterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.domain\\enums\\enumtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|solutionrelative:src\\webbff.cliente.domain\\enums\\enumtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.domain\\general\\generals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|solutionrelative:src\\webbff.cliente.domain\\general\\generals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\crearcuentaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\crearcuentaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\crearclienteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\crearclienteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\proyecciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\proyecciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\proyeccionahorroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\proyeccionahorroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\cuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\cuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\contactodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\contactodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.domain\\helpers\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|solutionrelative:src\\webbff.cliente.domain\\helpers\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.domain\\helpers\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|solutionrelative:src\\webbff.cliente.domain\\helpers\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.domain\\helpers\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|solutionrelative:src\\webbff.cliente.domain\\helpers\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.domain\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|solutionrelative:src\\webbff.cliente.domain\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.domain\\helpers\\datatableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|solutionrelative:src\\webbff.cliente.domain\\helpers\\datatableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.domain\\helpers\\decimalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|solutionrelative:src\\webbff.cliente.domain\\helpers\\decimalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\mapping\\infrastructuremappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\mapping\\infrastructuremappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\extensions\\redisextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\extensions\\redisextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\extensions\\memoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\extensions\\memoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\caching\\redis\\rediscache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\caching\\redis\\rediscache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\caching\\memory\\memorycachelocalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\caching\\memory\\memorycachelocalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.domain\\common\\datacachelocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|solutionrelative:src\\webbff.cliente.domain\\common\\datacachelocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.domain\\common\\datacachelocalprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A19A26-8121-4E6C-B65F-A84065865395}|src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj|solutionrelative:src\\webbff.cliente.domain\\common\\datacachelocalprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\mappings\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\mappings\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\interfaces\\infraestructure\\irediscache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\interfaces\\infraestructure\\irediscache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\interfaces\\infraestructure\\imemorycachelocalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\interfaces\\infraestructure\\imemorycachelocalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\interfaces\\base\\irequestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\interfaces\\base\\irequestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\interfaces\\base\\ierrorcatalogexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\interfaces\\base\\ierrorcatalogexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\interfaces\\base\\idecoradorrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\interfaces\\base\\idecoradorrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\base\\responsebaseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\base\\responsebaseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\base\\infosessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\base\\infosessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\common\\errorcatalogexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\common\\errorcatalogexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\services\\common\\api\\urlhttpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\services\\common\\api\\urlhttpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\services\\common\\api\\iapiurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\services\\common\\api\\iapiurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\services\\common\\api\\apiurl..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\services\\common\\api\\apiurl..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\services\\common\\api\\apiconnectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\services\\common\\api\\apiconnectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.infrastructure\\services\\common\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A7162A-2291-442C-9024-0794DAC202E5}|src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj|solutionrelative:src\\webbff.cliente.infrastructure\\services\\common\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\src\\webbff.cliente.application\\dtos\\base\\requestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F74877-E5F0-4E5A-932C-3A5FD9495A62}|src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj|solutionrelative:src\\webbff.cliente.application\\dtos\\base\\requestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A057803-F024-4503-9389-28C0CFB586EF}|test\\WebBFF.Cliente.Tests\\WebBFF.Cliente.Tests.csproj|d:\\@git_repositorio\\solidario\\webbff.cliente\\test\\webbff.cliente.tests\\webbff.cliente.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A057803-F024-4503-9389-28C0CFB586EF}|test\\WebBFF.Cliente.Tests\\WebBFF.Cliente.Tests.csproj|solutionrelative:test\\webbff.cliente.tests\\webbff.cliente.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerarCuentaCommandHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\GenerarCuentaCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\GenerarCuentaCommandHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\GenerarCuentaCommandHandler.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\GenerarCuentaCommandHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAWwB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:15:01.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerarCuentaCommand.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Commands\\GenerarCuentaCommand.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Commands\\GenerarCuentaCommand.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Commands\\GenerarCuentaCommand.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Commands\\GenerarCuentaCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:11:39.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenerarCuentaAhorroPlanCommandHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\GenerarCuentaAhorroPlanCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\GenerarCuentaAhorroPlanCommandHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\GenerarCuentaAhorroPlanCommandHandler.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\GenerarCuentaAhorroPlanCommandHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwDAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:58:07.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.API\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.API\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:48:54.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.API\\appsettings.json",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\appsettings.json",
+              "RelativeToolTip": "src\\WebBFF.Cliente.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T05:34:19.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICentralNegocioService.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\ICentralNegocioService.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\ICentralNegocioService.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\ICentralNegocioService.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\ICentralNegocioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:13:38.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenerarCuentaAhorroPlanCommand.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Commands\\GenerarCuentaAhorroPlanCommand.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Commands\\GenerarCuentaAhorroPlanCommand.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Commands\\GenerarCuentaAhorroPlanCommand.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Commands\\GenerarCuentaAhorroPlanCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:32:37.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebBFF.Cliente.API.csproj",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj",
+              "RelativeToolTip": "src\\WebBFF.Cliente.API\\WebBFF.Cliente.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T05:34:05.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrearCuentaAhorroPlanResponse.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaAhorroPlanResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaAhorroPlanResponse.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaAhorroPlanResponse.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaAhorroPlanResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:01:45.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsultarClientesQueryHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarClientesQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarClientesQueryHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarClientesQueryHandler.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarClientesQueryHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:16:12.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsultaClienteCuentasQueryHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultaClienteCuentasQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultaClienteCuentasQueryHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultaClienteCuentasQueryHandler.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultaClienteCuentasQueryHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA8wBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:34:41.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultarProyeccionAhorroQuery.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarProyeccionAhorroQuery.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarProyeccionAhorroQuery.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarProyeccionAhorroQuery.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarProyeccionAhorroQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:30:19.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsultarCuentaQuery.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarCuentaQuery.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarCuentaQuery.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarCuentaQuery.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarCuentaQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:25:08.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.API\\Controllers\\CommonController.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.API\\Controllers\\CommonController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:36:49.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsultarClientesQuery.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarClientesQuery.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarClientesQuery.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarClientesQuery.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultarClientesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:16:00.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConsultaClienteCuentasQuery.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultaClienteCuentasQuery.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultaClienteCuentasQuery.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultaClienteCuentasQuery.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Queries\\ConsultaClienteCuentasQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:23:34.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsultarCuentaQueryHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarCuentaQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarCuentaQueryHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarCuentaQueryHandler.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarCuentaQueryHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:38:33.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuscarCuentaResponse.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\BuscarCuentaResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\BuscarCuentaResponse.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\BuscarCuentaResponse.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\BuscarCuentaResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:50:03.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CentralNegocioService.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\CentralNegocioService.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Services\\CentralNegocioService.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\CentralNegocioService.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Services\\CentralNegocioService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowFQAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T05:51:26.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConsultarProyeccionAhorroQueryHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarProyeccionAhorroQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarProyeccionAhorroQueryHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarProyeccionAhorroQueryHandler.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\Handlers\\ConsultarProyeccionAhorroQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:52:47.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Features\\BaseCommand.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Features\\BaseCommand.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Features\\BaseCommand.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:40:31.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BuscarClienteResponse.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\BuscarClienteResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\BuscarClienteResponse.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\BuscarClienteResponse.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\BuscarClienteResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:58:35.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResponseBase.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\Base\\ResponseBase.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\Base\\ResponseBase.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\Base\\ResponseBase.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\Base\\ResponseBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:17:33.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.API\\appsettings.Development.json",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\WebBFF.Cliente.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T06:45:19.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.API\\Middlewares\\LoggingMiddleware.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.API\\Middlewares\\LoggingMiddleware.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAjwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:50:24.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WebBFF.Cliente.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\WebBFF.Cliente.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T05:34:55.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WebBFF.Cliente.Domain.csproj",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Domain\\WebBFF.Cliente.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T06:24:13.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.API\\Program.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\Program.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.API\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T05:34:14.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WebBFF.Cliente.Application.csproj",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\WebBFF.Cliente.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T05:53:24.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\WebBFF.Cliente.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T08:23:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "project.json",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\project.json",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.API\\project.json",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.API\\project.json",
+              "RelativeToolTip": "src\\WebBFF.Cliente.API\\project.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T17:11:51.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CrearClienteRequest.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearClienteRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\CrearClienteRequest.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearClienteRequest.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\CrearClienteRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:08:21.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CrearCuentaAhorroPlanRequest.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaAhorroPlanRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaAhorroPlanRequest.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaAhorroPlanRequest.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaAhorroPlanRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:10:48.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BuscarClientesResponse.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\BuscarClientesResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\BuscarClientesResponse.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\BuscarClientesResponse.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\BuscarClientesResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:38:27.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CrearCuentaRequest.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaRequest.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaRequest.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:12:16.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CrearCuentaResponse.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaResponse.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaResponse.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\CrearCuentaResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:02:07.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "catalog_errorDto.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\catalog_errorDto.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\catalog_errorDto.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\catalog_errorDto.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\catalog_errorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:20:58.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EnumTypes.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Enums\\EnumTypes.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Domain\\Enums\\EnumTypes.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Enums\\EnumTypes.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Domain\\Enums\\EnumTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:03:10.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CrearClienteResponse.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearClienteResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\CrearClienteResponse.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\CrearClienteResponse.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\CrearClienteResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:01:19.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "proyeccionDto.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\proyeccionDto.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\proyeccionDto.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\proyeccionDto.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\proyeccionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:00:54.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProyeccionAhorroResponse.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\ProyeccionAhorroResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\ProyeccionAhorroResponse.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\ProyeccionAhorroResponse.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\ProyeccionAhorroResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:00:33.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Generals.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\General\\Generals.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Domain\\General\\Generals.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\General\\Generals.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Domain\\General\\Generals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:38:33.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "cuentaDto.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\cuentaDto.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\cuentaDto.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\cuentaDto.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\cuentaDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:59:52.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "contactoDto.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\contactoDto.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\contactoDto.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\contactoDto.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\contactoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:59:05.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "clienteDto.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\clienteDto.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\clienteDto.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\clienteDto.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\clienteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:58:45.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Util.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\Util.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Domain\\Helpers\\Util.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\Util.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Domain\\Helpers\\Util.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:39:30.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Domain\\Helpers\\StringExtensions.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\StringExtensions.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Domain\\Helpers\\StringExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:39:19.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\Serializer.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Domain\\Helpers\\Serializer.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\Serializer.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Domain\\Helpers\\Serializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:39:15.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Domain\\Helpers\\Helper.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\Helper.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Domain\\Helpers\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:39:11.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DataTableExtensions.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\DataTableExtensions.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Domain\\Helpers\\DataTableExtensions.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\DataTableExtensions.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Domain\\Helpers\\DataTableExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:39:02.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DecimalExtensions.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\DecimalExtensions.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Domain\\Helpers\\DecimalExtensions.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Helpers\\DecimalExtensions.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Domain\\Helpers\\DecimalExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:39:06.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DataCacheLocal.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Common\\DataCacheLocal.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Domain\\Common\\DataCacheLocal.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Common\\DataCacheLocal.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Domain\\Common\\DataCacheLocal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T05:59:16.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MemoryCacheLocalService.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Caching\\Memory\\MemoryCacheLocalService.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Caching\\Memory\\MemoryCacheLocalService.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Caching\\Memory\\MemoryCacheLocalService.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Caching\\Memory\\MemoryCacheLocalService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:08:20.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RedisCache.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Caching\\Redis\\RedisCache.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Caching\\Redis\\RedisCache.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Caching\\Redis\\RedisCache.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Caching\\Redis\\RedisCache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:08:38.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MemoryExtensions.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Extensions\\MemoryExtensions.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Extensions\\MemoryExtensions.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Extensions\\MemoryExtensions.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Extensions\\MemoryExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:09:35.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RedisExtensions.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Extensions\\RedisExtensions.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Extensions\\RedisExtensions.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Extensions\\RedisExtensions.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Extensions\\RedisExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:09:39.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Extensions\\ServiceExtension.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Extensions\\ServiceExtension.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T05:49:30.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "InfrastructureMappingProfile .cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Mapping\\InfrastructureMappingProfile .cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Mapping\\InfrastructureMappingProfile .cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Mapping\\InfrastructureMappingProfile .cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Mapping\\InfrastructureMappingProfile .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:25:29.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DataCacheLocalProcess.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Common\\DataCacheLocalProcess.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Domain\\Common\\DataCacheLocalProcess.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Domain\\Common\\DataCacheLocalProcess.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Domain\\Common\\DataCacheLocalProcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:00:21.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ApplicationMappingProfile.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:15:23.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IRedisCache.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\IRedisCache.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\IRedisCache.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\IRedisCache.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\IRedisCache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:13:49.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IMemoryCacheLocalService.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\IMemoryCacheLocalService.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\IMemoryCacheLocalService.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\IMemoryCacheLocalService.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Interfaces\\Infraestructure\\IMemoryCacheLocalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:13:45.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IRequestBase.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IRequestBase.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IRequestBase.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IRequestBase.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IRequestBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:13:23.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IErrorCatalogException.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IErrorCatalogException.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IErrorCatalogException.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IErrorCatalogException.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IErrorCatalogException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:13:20.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:11:28.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IDecoradorRequestHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IDecoradorRequestHandler.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IDecoradorRequestHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IDecoradorRequestHandler.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Interfaces\\Base\\IDecoradorRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:13:17.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ResponseBaseError.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\Base\\ResponseBaseError.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\Base\\ResponseBaseError.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\Base\\ResponseBaseError.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\Base\\ResponseBaseError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:17:37.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "InfoSessionDto.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\Base\\InfoSessionDto.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\Base\\InfoSessionDto.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\Base\\InfoSessionDto.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\Base\\InfoSessionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:17:20.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ErrorCatalogException.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Common\\ErrorCatalogException.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\Common\\ErrorCatalogException.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\Common\\ErrorCatalogException.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\Common\\ErrorCatalogException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:12:56.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:10:17.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "UrlHttpDto.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\UrlHttpDto.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\UrlHttpDto.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\UrlHttpDto.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\UrlHttpDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T05:58:14.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IApiUrl.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\IApiUrl.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\IApiUrl.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\IApiUrl.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\IApiUrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T05:58:12.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ApiUrl..cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\ApiUrl..cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\ApiUrl..cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\ApiUrl..cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\ApiUrl..cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T05:58:11.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ApiConnectionDto.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\ApiConnectionDto.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\ApiConnectionDto.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\ApiConnectionDto.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\Api\\ApiConnectionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T05:58:07.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\BaseService.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\BaseService.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\BaseService.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Infrastructure\\Services\\Common\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T05:57:47.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RequestBase.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\Base\\RequestBase.cs",
+              "RelativeDocumentMoniker": "src\\WebBFF.Cliente.Application\\DTOs\\Base\\RequestBase.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\src\\WebBFF.Cliente.Application\\DTOs\\Base\\RequestBase.cs",
+              "RelativeToolTip": "src\\WebBFF.Cliente.Application\\DTOs\\Base\\RequestBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:17:28.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "WebBFF.Cliente.Tests.csproj",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\test\\WebBFF.Cliente.Tests\\WebBFF.Cliente.Tests.csproj",
+              "RelativeDocumentMoniker": "test\\WebBFF.Cliente.Tests\\WebBFF.Cliente.Tests.csproj",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\WebBFF.Cliente\\test\\WebBFF.Cliente.Tests\\WebBFF.Cliente.Tests.csproj",
+              "RelativeToolTip": "test\\WebBFF.Cliente.Tests\\WebBFF.Cliente.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T05:35:06.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

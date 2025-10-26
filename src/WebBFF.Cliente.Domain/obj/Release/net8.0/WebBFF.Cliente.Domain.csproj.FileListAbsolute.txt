@@ -1,0 +1,11 @@
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Domain\bin\Release\net8.0\WebBFF.Cliente.Domain.deps.json
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Domain\bin\Release\net8.0\WebBFF.Cliente.Domain.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Domain\bin\Release\net8.0\WebBFF.Cliente.Domain.pdb
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Domain\obj\Release\net8.0\WebBFF.Cliente.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Domain\obj\Release\net8.0\WebBFF.Cliente.Domain.AssemblyInfoInputs.cache
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Domain\obj\Release\net8.0\WebBFF.Cliente.Domain.AssemblyInfo.cs
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Domain\obj\Release\net8.0\WebBFF.Cliente.Domain.csproj.CoreCompileInputs.cache
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Domain\obj\Release\net8.0\WebBFF.Cliente.Domain.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Domain\obj\Release\net8.0\refint\WebBFF.Cliente.Domain.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Domain\obj\Release\net8.0\WebBFF.Cliente.Domain.pdb
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Domain\obj\Release\net8.0\ref\WebBFF.Cliente.Domain.dll

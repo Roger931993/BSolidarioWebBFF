@@ -1,0 +1,15 @@
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\obj\Release\net8.0\WebBFF.Cliente.Application.csproj.AssemblyReference.cache
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\obj\Release\net8.0\WebBFF.Cliente.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\obj\Release\net8.0\WebBFF.Cliente.Application.AssemblyInfoInputs.cache
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\obj\Release\net8.0\WebBFF.Cliente.Application.AssemblyInfo.cs
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\obj\Release\net8.0\WebBFF.Cliente.Application.csproj.CoreCompileInputs.cache
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\bin\Release\net8.0\WebBFF.Cliente.Application.deps.json
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\bin\Release\net8.0\WebBFF.Cliente.Application.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\bin\Release\net8.0\WebBFF.Cliente.Application.pdb
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\bin\Release\net8.0\WebBFF.Cliente.Domain.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\bin\Release\net8.0\WebBFF.Cliente.Domain.pdb
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\obj\Release\net8.0\WebBFF.C.E47BD55D.Up2Date
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\obj\Release\net8.0\WebBFF.Cliente.Application.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\obj\Release\net8.0\refint\WebBFF.Cliente.Application.dll
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\obj\Release\net8.0\WebBFF.Cliente.Application.pdb
+D:\@Git_Repositorio\Solidario\WebBFF.Cliente\src\WebBFF.Cliente.Application\obj\Release\net8.0\ref\WebBFF.Cliente.Application.dll

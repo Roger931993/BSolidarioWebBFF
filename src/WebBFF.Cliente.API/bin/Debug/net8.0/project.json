@@ -1,0 +1,49 @@
+{
+  "name": "WebBff.Cliente",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/core/WebBff.Cliente",
+  "targets": {
+    "build": {
+      "executor": "@nx-dotnet/core:build",
+      "outputs": [
+        "{workspaceRoot}/dist/apps/core/WebBff.Cliente",
+        "{workspaceRoot}/dist/intermediates/apps/core/WebBff.Cliente"
+      ],
+      "options": {
+        "configuration": "Debug",
+        "noDependencies": true
+      },
+      "configurations": {
+        "production": {
+          "configuration": "Release"
+        }
+      }
+    },
+    "serve": {
+      "executor": "@nx-dotnet/core:serve",
+      "options": {
+        "configuration": "Debug"
+      },
+      "configurations": {
+        "production": {
+          "configuration": "Release"
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nx-dotnet/core:format"
+    },
+    "swagger": {
+      "executor": "@nx-dotnet/core:update-swagger",
+      "outputs": [
+        "{workspaceRoot}/libs/generated/backend-swagger/swagger.json"
+      ],
+      "options": {
+        "output": "libs/generated/backend-swagger/swagger.json"
+      },
+      "dependsOn": [ "build" ]
+    }
+  },
+  "tags": []
+}

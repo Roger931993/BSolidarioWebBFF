@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4e2EKfXF85f2Vlo98BaqLxKTAWxeVJ5wQffIhRVkErs=",
+  "Source": "WebBFF.Cliente.API",
+  "BasePath": "_content/WebBFF.Cliente.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

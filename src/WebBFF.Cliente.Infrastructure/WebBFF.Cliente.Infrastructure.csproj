@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Utils\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebBFF.Cliente.Application\WebBFF.Cliente.Application.csproj" />
+    <ProjectReference Include="..\WebBFF.Cliente.Domain\WebBFF.Cliente.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
